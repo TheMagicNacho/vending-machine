@@ -5,7 +5,8 @@
   "description": "vending machine with jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "j-test": "jest"
   },
   "repository": {
     "type": "git",
