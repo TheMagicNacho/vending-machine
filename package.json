@@ -1,0 +1,26 @@
+{
+  "name": "vending-machine",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "vending machine with jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMagicNacho/vending-machine.git"
+  },
+  "keywords": [
+    "sandbox"
+  ],
+  "author": "Suma & Justin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheMagicNacho/vending-machine/issues"
+  },
+  "homepage": "https://github.com/TheMagicNacho/vending-machine#readme",
+  "dependencies": {
+    "jest": "^27.5.0"
+  }
+}
